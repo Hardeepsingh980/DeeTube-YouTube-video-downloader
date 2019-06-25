@@ -1,4 +1,4 @@
-## DeeTube
+## DeeTube-YouTube-Video-Downloader
 
 ## Summary
 
@@ -12,6 +12,10 @@ Python 3.6 or above
 Tkinter module --> pip install tkinter
 
 Pytube module  --> pip install pytube
+
+## How To Run
+
+Simply Run the main.py file.
 
 
 ## Screenshots
